@@ -1,5 +1,6 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "fcc-learn-npm-package-json",	
+	"author": "Alex Miranda Guevara",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,7 +13,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
-	},
-	"author": "Alex Miranda Guevara"
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	}
 }
